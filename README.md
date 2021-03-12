@@ -6,6 +6,6 @@ This is a web application that is inspired by the Ghanian culture. In Ghana the 
 ## Technologies used
 This webpage was created entirely by HTML5,CSS3 and JavaScript
 ## Link to live webpage
-<https://Mulinga.io/revisedweek2IP
+<https://mulinga.io/revisedweek2IP
 ## Languages used
 HTML, CSS, JavaScript
